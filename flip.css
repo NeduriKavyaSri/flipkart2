@@ -1,0 +1,60 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+nav{
+    background-color: blue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+}
+.plus-color{
+    color: gold;
+    font-weight: 900;
+}
+.logo p{
+    color:white;
+    position: relative;
+    top:-5px;
+}
+.search {
+    background-color: white;
+    padding:8px;
+    width:410px;
+    margin:0px 15px;
+    display:flex;
+    justify-content: space-between;
+    color:blue;
+}
+.search input{
+    width:300px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+}
+.loginbtn{
+    padding:3px 30px;
+    font-size: 16px;
+    color:blue;
+}
+.navlink{
+    margin:0px 20px;
+    font-size: 18px;
+    color:white;
+    text-decoration: none;
+}
+.angle i{
+    font-size: 10px;
+}
+.z i{
+    font-size: 10px;
+}
+.z:hover{
+    color:blue;
+}
+
+
+
+
